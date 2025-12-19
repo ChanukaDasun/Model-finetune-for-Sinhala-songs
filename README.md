@@ -1,7 +1,4 @@
-# Model-finetune-for-Sinhala-songs
-🎶 This is the repository for finetuning different models with different datasets to give knowledge about Sinhala songs in different eras.
-
-# 📌 First Fine-Tuning Attempt (Baseline Experiment)
+## 📌 First Fine-Tuning Attempt (Baseline Experiment)
 
 This repository contains my first experimental attempt at fine-tuning a Large Language Model (LLM) for Sinhala song lyrics and metaphor understanding using parameter-efficient fine-tuning (LoRA). The goal of this attempt was to learn and implement the end-to-end fine-tuning workflow, including dataset preparation, model loading, quantization, training, and inference.
 
