@@ -26,7 +26,7 @@ This repository contains my first experimental attempt at fine-tuning a Large La
 ## 📚 Dataset Used
 
 - **Dataset Name:** `pasinduudawatta/sinhala-songs-and-metaphors`
-- **Source:** Hugging Face Datasets
+- **Source:** kaggle Datasets
 - **Domain:** 
   - Sinhala song lyrics
   - Metaphorical expressions
